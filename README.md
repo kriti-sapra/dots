@@ -2,6 +2,8 @@
 
 Use [this tutorial](https://www.atlassian.com/git/tutorials/dotfiles) to set them onto a new system.
 
+Based of [Reina Hoshino](https://github.com/hoshino/dots)'s zsh theme.
+
 ### Install dot files to a new system
 
 Prior to the installation make sure you have committed the alias to your .zshrc:
